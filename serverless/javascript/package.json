@@ -45,8 +45,8 @@
   "description": "",
   "devDependencies": {
     "@types/node": "^24.0.13",
-    "ava": "^6.4.1",
-    "tsup": "^8.5.1",
+    "ava": "^8.5.0",
+    "tsup": "^9.0.0",
     "typescript": "^5.9.2"
   }
 }
